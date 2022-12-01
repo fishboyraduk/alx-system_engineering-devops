@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=rwX,g=rX,o= . /0x01-shell_permissions 
+chmod -R ugo+X .h
